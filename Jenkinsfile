@@ -44,8 +44,7 @@ pipeline {
             }
             steps {
                 input 'Deploy to Production?'
-                //implement Kubernetes deployment here
-                )
+                //implement Kubernetes deployment her
             }
         }
     }
